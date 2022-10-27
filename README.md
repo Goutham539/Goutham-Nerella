@@ -6,9 +6,9 @@ Developer and Web designer
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [nerellagoutham5@gmail.com](mailto:nerellagoutham5@gmail.com)
-* 🚀  I'm currently working on [My Umass Co-op](http://goutham539.github.io/CS615_group5/)
+* 🚀  I'm currently working on Angular and Django collab projects.
 * 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Interesting Projects on java and javascript
+* 🤝  I'm open to collaborating on Interesting Projects on Python and javascript
 
 ### Skills
 
